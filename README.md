@@ -1,6 +1,6 @@
 # Agent-Based Market Microstructure Simulator
 
-A simplified limit order book simulator where autonomous LLM-powered agents trade against each other. Built to explore how market microstructure, order matching, and agent-based modeling work together.
+A simplified limit order book simulator where autonomous LLM - powered agents trade against each other. Built to explore how market microstructure, order matching, and agent-based modeling work together.
 
 ## What it does
 
