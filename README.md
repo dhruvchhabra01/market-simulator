@@ -65,3 +65,5 @@ The simulation prints each agent's reasoning and trading decisions to the termin
 
 - **Top panel**: Mid-price, best bid, and best ask over time
 - **Bottom panel**: Bid-ask spread over time
+
+![Market Simulation Output](market_simulation.png)
